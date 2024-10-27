@@ -1,0 +1,5 @@
+package snake
+
+main :: proc() {
+
+}
